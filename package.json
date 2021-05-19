@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-pycom",
+  "version": "0.0.1",
+  "description": "Pycom approach to JS",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakobrosenberg/eslint-config-pycom.git"
+  },
+  "keywords": [
+    "eslint",
+    "js"
+  ],
+  "author": "jakob@pycom.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakobrosenberg/eslint-config-pycom/issues"
+  },
+  "homepage": "https://github.com/jakobrosenberg/eslint-config-pycom#readme"
+}
