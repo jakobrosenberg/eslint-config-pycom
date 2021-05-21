@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-pycom-base",
+  "name": "@pycom/eslint-config-pycom-base",
   "version": "0.0.1",
   "description": "Pycom's base JS ESLint config, following our styleguide",
   "main": "index.js",
