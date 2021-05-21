@@ -1,5 +1,5 @@
 {
-  "name": "pycom-base",
+  "name": "pycom-style",
   "version": "0.0.1",
   "description": "Pycom approach to JavaScript.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pycom/eslint-config-pycom.git"
+    "url": "git+https://github.com/pycom/javaScript.git"
   },
   "keywords": [
     "style guide",
@@ -19,7 +19,7 @@
   "author": "Pybytes Team <pybytes@pycom.io>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pycom/eslint-config-pycom/issues"
+    "url": "https://github.com/pycom/javaScript/issues"
   },
-  "homepage": "https://github.com/pycom/eslint-config-pycom"
+  "homepage": "https://github.com/pycom/javaScript"
 }
