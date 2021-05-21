@@ -1,46 +1,45 @@
 {
-  "name": "@pycom/eslint-config-pycom-base",
-  "version": "0.0.1",
-  "description": "Pycom's base JS ESLint config, following our styleguide",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pycom/javascript.git"
-  },
-  "keywords": [
-    "\"style",
-    "guide\"",
-    "\"lint\"",
-    "\"pycom\"",
-    "\"es6\"",
-    "\"es2015\"",
-    "\"es2016\"",
-    "\"es2017\"",
-    "\"es2018\"",
-    "\"react\"",
-    "\"jsx\""
-  ],
-  "author": "Pybytes Team <pybytes@pycom.io>",
-  "contributors": [
-    {
-      "name": "Ahmad EL Masri",
-      "url": "https://github.com/elmasria"
+    "name": "@pycom/eslint-config-pycom-base",
+    "version": "0.0.1",
+    "description": "Pycom's base JS ESLint config, following our styleguide",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pycom/javascript.git"
+    },
+    "keywords": [
+        "\"style",
+        "guide\"",
+        "\"lint\"",
+        "\"pycom\"",
+        "\"es6\"",
+        "\"es2015\"",
+        "\"es2016\"",
+        "\"es2017\"",
+        "\"es2018\"",
+        "\"react\"",
+        "\"jsx\""
+    ],
+    "author": "Pybytes Team <pybytes@pycom.io>",
+    "contributors": [{
+        "name": "Ahmad EL Masri",
+        "url": "https://github.com/elmasria"
+    }],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pycom/javascript/issues"
+    },
+    "homepage": "https://github.com/pycom/javascript#readme",
+    "engines": {
+        "node": ">= 6"
+    },
+    "dependencies": {},
+    "peerDependencies": {
+        "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-config-airbnb-base": "^14.2.1"
     }
-  ],
-  "peerDependencies": {
-    "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-config-airbnb-base": "^14.2.1"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pycom/javascript/issues"
-  },
-  "homepage": "https://github.com/pycom/javascript#readme",
-  "engines": {
-    "node": ">= 6"
-  }
 }
