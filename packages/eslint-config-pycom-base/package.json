@@ -1,6 +1,6 @@
 {
     "name": "@pycom/eslint-config-pycom-base",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Pycom's base JS ESLint config, following our styleguide",
     "main": "index.js",
     "scripts": {
@@ -38,8 +38,9 @@
     },
     "dependencies": {},
     "peerDependencies": {
-        "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0",
+        "eslint": "^5.16.0 || ^6.8.0 || ^7.2.0 || ^8.6.0",
+        "eslint-config-airbnb-base": "^14.2.1 || ^15.0.0",
         "eslint-plugin-import": "^2.22.1",
-        "eslint-config-airbnb-base": "^14.2.1"
+        "eslint-plugin-promise": "^4.2.1 || ^6.0.0"
     }
 }
